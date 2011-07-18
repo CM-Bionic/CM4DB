@@ -1,13 +1,11 @@
-This is the multipull repo for RevNumber's "branch" of cm4d2g  
--------------------------------------------------------------
+### This is the multipull repo for RevNumber's "branch" of cm4d2g  
 Thanks to cvpcs for all the hard work he put in getting Cyanogenmod to run on the DroidX  
 JBirdVegas and MetiCkOne for the work on CM4D2  
 And Bikedude880 and x13thangelx for getting the D2G port started, and their continued work
 on the project.  
 Without all of them we wouldn't have this project!  
 
-CM4D2G Crew:  
------------
+##### CM4D2G Crew:  
 Revnumbers: Code Maintainer (New repo fresh from source, Wifi fix amongst many other things)  
 x13thangelx: Code Maintainer/Idea Machine (Without his ideas we wouldn't be where we are)  
 Asphyx: Thinker (his thought processes which came up with fixes for the keyboard and his other efforts with camera and GSM)  
