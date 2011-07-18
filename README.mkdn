@@ -6,8 +6,13 @@ And Bikedude880 and x13thangelx for getting the D2G port started, and their cont
 on the project.
 Without all of them we wouldn't have this project!
 
+CM4D2G Crew:
+Revnumbers: Code Maintainer (New repo fresh from source, Wifi fix amongst many other things)
+x13thangelx: Code Maintainer/Idea Machine (Without his ideas we wouldn't be where we are)
+Asphyx: Thinker (his thought processes which came up with fixes for the keyboard and his other efforts with camera and GSM)
+Aceoyame: Thinker/Bug Solver (he has worked with GSM and Wifi and the fingerprint correction)
+bikedude880 Thinker/Bug Solver (Original Code Maintainer) (his repo got things started rolling and working.)
 
-I've created this repo to make it easier to pull CM7 with my device repos
 
 
-Rev
+This repo was created to make it easier to pull CM7 with cm4d2g specific device repos
