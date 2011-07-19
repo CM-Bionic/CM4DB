@@ -293,6 +293,6 @@
   <project path="android" name="RevNumbers/cm4d2g" remote="github" />
   <project path="vendor/cyanogen" name="RevNumbers/android_vendor_cyanogen" remote="github" />
   <project path="device/motorola/droid2we" name="RevNumbers/android_device_motorola_droid2we" remote="github" />
-  <project path="vendor/motorola/" name="RevNumbers/proprietary_vendor_motorola" remote="github" revision="refs/heads/master" />
+  <project path="vendor/motorola/" name="RevNumbers/proprietary_vendor_motorola" remote="github" />
 
 </manifest>
