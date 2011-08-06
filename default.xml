@@ -77,7 +77,7 @@
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" remote="github" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" remote="github" />
-  <project path="device/sample" name="device/sample" />
+  <project path="device/motorola/venus2" name"x13thangelx/android_device_motorola_venus2" remote="github" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" remote="github" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" remote="github" />
