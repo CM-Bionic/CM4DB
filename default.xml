@@ -298,6 +298,6 @@
   <project path="vendor/motorola/" name="RevNumbers/proprietary_vendor_motorola" remote="github" />
 
   <project path="device/motorola/venus2" name="x13thangelx/android_device_motorola_venus2" remote="github" revision="master" />
-  <project path="vendor/motorola/venus2" name="x13thangelx/android_vendor_motorola_venus2" remote="github" />
+  <project path="vendor/motorola/venus2" name="x13thangelx/android_vendor_motorola_venus2" remote="github" revision="master" />
 
 </manifest>
