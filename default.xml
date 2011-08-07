@@ -297,7 +297,7 @@
   <project path="device/motorola/droid2we" name="RevNumbers/android_device_motorola_droid2we" remote="github" />
   <project path="vendor/motorola/" name="RevNumbers/proprietary_vendor_motorola" remote="github" />
 
-  <project path="device/motorola/venus2" name="x13thangelx/android_device_motorola_venus2" remote="github" revision="master" />
-  <project path="vendor/motorola/venus2" name="x13thangelx/android_vendor_motorola_venus2" remote="github" revision="master" />
+  <project path="device/motorola/venus2" name="x13thangelx/android_device_motorola_venus2" remote="github" />
+  <project path="vendor/motorola/venus2" name="x13thangelx/android_vendor_motorola_venus2" remote="github" />
 
 </manifest>
