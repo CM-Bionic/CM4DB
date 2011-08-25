@@ -1,17 +1,8 @@
-### This is the multipull repo for RevNumber's "branch" of cm4d2g  
-Thanks to cvpcs for all the hard work he put in getting Cyanogenmod to run on the DroidX  
-JBirdVegas and MetiCkOne for the work on CM4D2  
-And Bikedude880 and x13thangelx for getting the D2G port started, and their continued work
-on the project.  
-Without all of them we wouldn't have this project!  
+### This is the multipull repo for cm7 for the Thunderbolt/Mecha
+Thanks to slayher and everybody for their work on CM7 for Mecha.
 
-#### CM4D2G Crew:  
-**Revnumbers:** Code Maintainer (New repo fresh from source, Wifi fix amongst many other things)  
-**x13thangelx:** Code Maintainer/Idea Machine (Without his ideas we wouldn't be where we are)  
-**Asphyx:** Thinker (his thought processes which came up with fixes for the keyboard and his other efforts with camera and GSM)  
-**Aceoyame:** Thinker/Bug Solver (he has worked with GSM and Wifi and the fingerprint correction)  
-**bikedude880:** Thinker/Bug Solver (Original Code Maintainer) (his repo got things started rolling and working.)  
-  
-  
-  
-This repo was created to make it easier to pull CM7 with cm4d2g specific device repos  
+Thanks to ProTekk for the original build script.
+
+Thanks to Revnumbers for his cm4d2g repo that this is based off of.
+
+This repo was created to make it easier to pull CM7 with Mecha specific device repos.  
