@@ -307,7 +307,7 @@
   <project path="android" name="CyanogenMod/android" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" />
-  <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" />
+  <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" branch="gingerbread-droid3"/>
   <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" />
     <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" />
   <project path="packages/apps/Settings" name="Hashcode/android_packages_apps_Settings" remote="github" />
