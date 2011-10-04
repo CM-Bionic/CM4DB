@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
-           review="review.source.android.com" />
+  #<remote  name="korg"
+  #         fetch="git://android.git.kernel.org/"
+  #         review="review.source.android.com" />
 
   <remote  name="github"
            fetch="git://github.com/"
@@ -292,7 +292,7 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="github" />
 
   <project path="android" name="CyanogenMod/android" remote="github" />
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
+  <project path="vendor/cyanogen" name="Hashcode/android_vendor_cyanogen" remote="github" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
   
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" />
