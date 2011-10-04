@@ -1,8 +1,0 @@
-### This is the multipull repo for cm7 for the Thunderbolt/Mecha
-Thanks to slayher and everybody for their work on CM7 for Mecha.
-
-Thanks to ProTekk for the original build script.
-
-Thanks to Revnumbers for his cm4d2g repo that this is based off of.
-
-This repo was created to make it easier to pull CM7 with Mecha specific device repos.  
