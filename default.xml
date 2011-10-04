@@ -305,7 +305,7 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <project path="android" name="CyanogenMod/android" />
-  <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" />
+  <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="master" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" />
   <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" revision="gingerbread-droid3"/>
   <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread-droid3"/>
