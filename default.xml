@@ -73,7 +73,6 @@
   <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" remote="github" />
   <project path="device/motorola/shadow" name="RevNumbers/android_device_motorola_shadow" remote="github" revision="master" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
-  <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" />
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" remote="github" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" remote="github" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
@@ -140,7 +139,6 @@
   <project path="external/gtest" name="platform/external/gtest" />
   <project path="external/guava" name="platform/external/guava" />
   <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" remote="github" />
-  <project path="external/opencore" name="Hashcode/android_external_opencore" remote="github">
   <project path="external/icu4c" name="platform/external/icu4c" />
   <project path="external/iproute2" name="platform/external/iproute2" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" />
@@ -201,7 +199,6 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" />
-  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
@@ -214,7 +211,6 @@
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="github" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" remote="github" />
-  <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" />
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" remote="github" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="github" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="github" />
@@ -255,7 +251,6 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="Hashcode/android_packages_apps_Settings" remote="github" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" remote="github" />
@@ -281,7 +276,6 @@
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="Hashcode/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
@@ -300,5 +294,14 @@
   <project path="android" name="CyanogenMod/android" remote="github" />
   <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
   <project path="vendor/htc" name="koush/proprietary_vendor_htc" remote="github" />
+  
+  <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" />
+  <project path="system/core" name="Hashcode/android_system_core" remote="github" />
+  <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" />
+  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" />
+    <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" />
+  <project path="packages/apps/Settings" name="Hashcode/android_packages_apps_Settings" remote="github" />
+
+
 
 </manifest>
