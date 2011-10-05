@@ -304,14 +304,14 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <project path="android" name="CyanogenMod/android" />
-  <project path="bionic" name="Hashcode/android_bionic" />
-  <project path="bootable/recovery" name="Hashcode/android_bootable_recovery" />
-  <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" />
-  <project path="system/core" name="Hashcode/android_system_core" />
-  <project path="external/opencore" name="Hashcode/platform_external_opencore" />
-  <project path="frameworks/base" name="Hashcode/android_frameworks_base" />
-  <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" />
-  <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
-  <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" />
+  <project path="bionic" name="Hashcode/android_bionic" remote="github" revision="gingerbread" />
+  <project path="bootable/recovery" name="Hashcode/android_bootable_recovery" remote="github" revision="gingerbread" />
+  <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
+  <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
+  <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" revision="gingerbread" />
+  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread" />
+  <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" revision="gingerbread" />
+  <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" remote="github" revision="gingerbread" />
+  <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
   
 </manifest>
