@@ -16,7 +16,6 @@
   </project>
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
@@ -306,6 +305,7 @@
 
   <project path="android" name="CyanogenMod/android" />
   <project path="bionic" name="Hashcode/android_bionic" />
+  <project path="bootable/recovery" name="Hashcode/android_bootable_recovery" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" />
   <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" />
