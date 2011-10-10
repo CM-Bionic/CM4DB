@@ -221,7 +221,7 @@
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
-  <!--><project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />-->
+  <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
@@ -288,7 +288,6 @@
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
-  <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" revision="master" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
@@ -312,4 +311,5 @@
   <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" revision="gingerbread" />
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
+  <project path="system/netd" name="Hashcode/android_system_netd" remote="github" revision="gingerbread" />
 </manifest>
