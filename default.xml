@@ -65,7 +65,6 @@
   <project path="device/malata/smb_a1004" name="CyanogenMod/android_device_malata_smb_a1004" />
   <project path="device/malata/smb_a1011" name="CyanogenMod/android_device_malata_smb_a1011" />
   <project path="device/malata/smb_b9701" name="CyanogenMod/android_device_malata_smb_b9701" />
-  <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />
   <project path="device/motorola/droid2" name="CyanogenMod/android_device_motorola_droid2" />
   <project path="device/motorola/droid2we" name="CyanogenMod/android_device_motorola_droid2we" />
   <project path="device/motorola/jordan" name="CyanogenMod/android_device_motorola_jordan" />
@@ -303,6 +302,7 @@
   <project path="android" name="CyanogenMod/android" />
   <project path="bionic" name="Hashcode/android_bionic" remote="github" revision="gingerbread" />
   <project path="bootable/recovery" name="Hashcode/android_bootable_recovery" remote="github" revision="gingerbread" />
+  <project path="device/motorola/common" name="Hashcode/android_device_motorola_common" remote="github" revision="gingerbread" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
   <project path="system/wlan/ti" name="Hashcode/android_system_wlan_ti" remote="github" revision="gingerbread" />
