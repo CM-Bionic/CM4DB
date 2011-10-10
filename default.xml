@@ -313,5 +313,6 @@
   <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" revision="gingerbread" />
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
-  
+  <project path="system/wlan/ti" name="Hashcode/android_system_wlan_ti" remote="github" revision="gingerbread" />
+
 </manifest>
