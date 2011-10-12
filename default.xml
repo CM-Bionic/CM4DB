@@ -311,7 +311,7 @@
   <project path="bootable/recovery" name="Hashcode/android_bootable_recovery" remote="github" revision="gingerbread" />
   <project path="device/motorola/common" name="Hashcode/android_device_motorola_common" remote="github" revision="gingerbread" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
-  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread" />
+  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread-omap4" />
   <project path="hardware/ti/omap3" name="Hashcode/android_hardware_ti_omap3" remote="github" revision="gingerbread" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
