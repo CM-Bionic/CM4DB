@@ -306,6 +306,7 @@
   <project path="hardware/alsa_sound" name="Hashcode/android_hardware_alsa_sound" remote="github" revision="gingerbread" />
   <project path="device/motorola/common" name="Hashcode/android_device_motorola_common" remote="github" revision="gingerbread" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
+  <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" revision="gingerbread" />
   <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread-omap4" />
   <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" revision="gingerbread" />
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
