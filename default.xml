@@ -115,6 +115,7 @@
   <project path="external/astl" name="CyanogenMod/android_external_astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" />
+  <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
   <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
   <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
@@ -209,8 +210,10 @@
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
+  <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" revision="omap4-merge" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
@@ -219,7 +222,11 @@
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
+  <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
+  <project path="hardware/ti/omx" name="CyanogenMod/android_hardware_ti_omx" />
+  <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
+  <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
@@ -302,21 +309,15 @@
   <project path="android" name="CyanogenMod/android" />
   <project path="bootable/recovery" name="Hashcode/android_bootable_recovery" remote="github" revision="gingerbread" />
 
-  <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" revision="omap4-merge" />
   <project path="device/motorola/common" name="Hashcode/android_device_motorola_common" remote="github" revision="gingerbread" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
-  <project path="external/bootmenu" name="Hashcode/android_external_bootmenu" />
   <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" revision="gingerbread" />
-  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread-omap4" />
-  <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
-  <project path="hardware/ti/omx" name="CyanogenMod/android_hardware_ti_omx" />
-  <project path="hardware/ti/syslink" name="CyanogenMod/android_hardware_ti_syslink" />
-  <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
+  <project path="hardware/ti/syslink" name="Hashcode/android_hardware_ti_syslink" remote="github" revision="gingerbread" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
   <project path="vendor/cyanogen" name="Hashcode/android_vendor_cyanogen" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
 <!--
+  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread-omap4" />
   <project path="hardware/alsa_sound" name="Hashcode/android_hardware_alsa_sound" remote="github" revision="gingerbread" />
   <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" revision="gingerbread" />
 //-->
