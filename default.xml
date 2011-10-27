@@ -8,6 +8,10 @@
            fetch="git://github.com/"
            review="review.cyanogenmod.com" />
 
+  <remote  name="omapzoom"
+           fetch="git://git.omapzoom.org/"
+           review="review.omapzoom.org" />
+
   <default revision="gingerbread"
            remote="github" />
 
@@ -224,7 +228,6 @@
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omx" name="CyanogenMod/android_hardware_ti_omx" />
-  <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
@@ -313,12 +316,8 @@
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
   <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" revision="gingerbread" />
   <project path="hardware/ti/syslink" name="Hashcode/android_hardware_ti_syslink" remote="github" revision="gingerbread" />
+  <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
   <project path="vendor/cyanogen" name="Hashcode/android_vendor_cyanogen" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
-<!--
-  <project path="frameworks/base" name="Hashcode/android_frameworks_base" remote="github" revision="gingerbread-omap4" />
-  <project path="hardware/alsa_sound" name="Hashcode/android_hardware_alsa_sound" remote="github" revision="gingerbread" />
-  <project path="hardware/ti/omap4" name="Hashcode/android_hardware_ti_omap4" remote="github" revision="gingerbread" />
-//-->
 </manifest>
