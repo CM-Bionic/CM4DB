@@ -217,7 +217,6 @@
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
-  <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" revision="omap4-merge" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
@@ -315,6 +314,7 @@
   <project path="device/motorola/common" name="Hashcode/android_device_motorola_common" remote="github" revision="gingerbread" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
   <project path="external/opencore" name="Hashcode/platform_external_opencore" remote="github" revision="gingerbread" />
+  <project path="hardware/alsa_sound" name="Hashcode/android_hardware_alsa_sound" remote="github" revision="gingerbread" />
   <project path="hardware/ti/syslink" name="Hashcode/android_hardware_ti_syslink" remote="github" revision="gingerbread" />
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
