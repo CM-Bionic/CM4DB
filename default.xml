@@ -312,10 +312,12 @@
   <project path="android" name="CyanogenMod/android" />
   <project path="device/motorola/common" name="Hashcode/android_device_motorola_common" remote="github" revision="gingerbread" />
   <project path="device/motorola/solana" name="Hashcode/android_device_motorola_solana" remote="github" revision="gingerbread" />
+  <project path="device/motorola/targa" name="CM-Bionic/android_device_motorola_solana" remote="github" revision="gingerbread" />
   <project path="hardware/ti/syslink" name="Hashcode/android_hardware_ti_syslink" remote="github" revision="gingerbread" />
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" remote="omapzoom" revision="memmgr_1.0" />
   <project path="hardware/ti/wpan" name="Hashcode/android_hardware_ti_wpan" remote="github" revision="gingerbread" />
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
-  <project path="vendor/cyanogen" name="Hashcode/android_vendor_cyanogen" remote="github" revision="gingerbread" />
+  <project path="vendor/cyanogen" name="CM-Bionic/android_vendor_cyanogen" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
+  <project path="vendor/motorola/targa" name="CM-Bionic/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
 </manifest>
