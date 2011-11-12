@@ -319,5 +319,5 @@
   <project path="system/core" name="Hashcode/android_system_core" remote="github" revision="gingerbread" />
   <project path="vendor/cyanogen" name="CM-Bionic/android_vendor_cyanogen" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
-  <project path="vendor/motorola/targa" name="CM-Bionic/android_vendor_motorola_targa" remote="github" revision="gingerbread" />
+  <project path="vendor/motorola/targa" name="CM-Bionic/proprietary_vendor_motorola_targa" remote="github" revision="gingerbread" />
 </manifest>
